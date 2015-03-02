@@ -1,0 +1,1 @@
+This project is a sample from my Data Structures class. For this project, I worked with two classmates to create a sample banking program in C#.

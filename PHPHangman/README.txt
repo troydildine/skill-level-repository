@@ -1,0 +1,1 @@
+This project is from my Survey of Programming Languages course. This was my first real attempt at creating a responsive web application, and my first use of jQuery.

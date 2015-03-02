@@ -1,0 +1,22 @@
+/* Author: Troy Dildine
+ * Date: 12/18/14
+ * Project: PHP Hangman
+ */
+
+body {
+  padding-top: 2%;
+}
+#letters {
+    padding-top: 4%;
+    font-size: 150%;
+}
+.wrongguess {
+    color: red;
+    pointer-events: none; /*Used to prevent clicking links*/
+    cursor: default;
+}
+.rightguess {
+    color: green;
+    pointer-events: none; /*Used to prevent clicking links*/
+    cursor: default;
+}

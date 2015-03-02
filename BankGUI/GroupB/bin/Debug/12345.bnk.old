@@ -1,0 +1,24 @@
+00035 02/27/2013 D12345           $0.10      $1,000.00 yeah
+00036 02/27/2013 W12345       $1,000.10        ($0.10) car crash$.10 charge for withdraw
+00037 02/27/2013 F12345          $20.00       ($20.10) FINED
+00038 02/27/2013 D12345         $300.00        $279.90 Payment
+00039 02/27/2013 D12345           $0.10        $280.00 extra
+00040 02/27/2013 -12345          $50.00        $230.00 need money in checking.$.10 charge for withdraw
+00042 02/27/2013 D12345           $8.05        $238.05 Interest Paid
+00043 02/27/2013 D12345           $0.95        $239.00 make up
+00047 02/27/2013 +12345          $74.00        $313.00 Auto stuff
+00048 02/27/2013 -12345          $13.10        $299.90 save -> checking. $.10 charge for withdraw
+00050 02/28/2013 D12345          $10.50        $310.40 Interest Paid
+00055 03/01/2013 D12345          $10.86        $321.26 Interest Paid
+00057 03/01/2013 W12345         $100.10        $221.16 asdf$.10 charge for withdraw
+00058 03/01/2013 W12345         $221.26        ($0.10) This account has been closed.$.10 charge for withdraw
+00058 03/01/2013 W12345         $221.26        ($0.10) This account has been closed.$.10 charge for withdraw
+00055 03/01/2013 W12345         $310.50        ($0.10) This account has been closed.$.10 charge for withdraw
+00055 03/01/2013 W12345         $310.50        ($0.10) This account has been closed.$.10 charge for withdraw
+00055 03/01/2013 W12345         $310.50        ($0.10) This account has been closed.$.10 charge for withdraw
+00055 03/01/2013 W12345         $310.50        ($0.10) This account has been closed.$.10 charge for withdraw
+00055 03/02/2013 D12345          $10.86        $321.26 Interest Paid
+00056 03/02/2013 D12345          $11.24        $332.50 Interest Paid
+00060 03/04/2013 D12345         $111.00        $443.50 sdf
+00060 03/04/2013 D12345          $11.64        $344.14 Interest Paid
+00061 03/04/2013 D12345          $11.00        $355.14 11
